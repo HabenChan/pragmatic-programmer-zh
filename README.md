@@ -1,4 +1,5 @@
-# pragmatic-programmer-zh
+# Pragmatic-programmer-zh
+
 《Pragmatic Programmer》中文翻译
 
 ## [第一章 务实主义哲学](./Chapter1/务实主义哲学.md)
@@ -7,6 +8,7 @@
 - [话题 2 猫吃了我的源代码](./Chapter1/猫吃了我的源代码.md)
 - [话题 3 软件熵](./Chapter1/软件熵.md)
 - [话题 4 石汤和煮青蛙](./Chapter1/石汤和煮青蛙.md)
+- [话题 5 足够好的软件](../Chapter1/足够好的软件.md)
 
 ## [第二章 务实的方法](务实的方法.md)
 
