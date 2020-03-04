@@ -1,4 +1,4 @@
-# Pragmatic-programmer-zh
+# pragmatic-programmer-zh
 
 《Pragmatic Programmer》中文翻译
 
@@ -15,5 +15,4 @@
 ## [第二章 务实的方法](./Chapter2/务实的方法.md)
 
 - [话题 8 好设计的本质](../Chapter2/好设计的本质.md)
-
-
+- [话题 9 重复的恶魔](../Chapter2/重复的恶魔.md)
