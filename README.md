@@ -24,3 +24,6 @@
 - [话题 15 评估](../Chapter2/评估.md)
 
 ## [第三章 ](./Chapter3/基本工具.md)
+
+- [话题 16 纯文本的力量](../Chapter3/纯文本的力量.md)
+- [话题 17 shell 游戏](../Chapter3/shell.md)
