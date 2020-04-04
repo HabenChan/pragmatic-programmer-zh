@@ -1,6 +1,6 @@
 # pragmatic-programmer-zh
 
-《Pragmatic Programmer》中文翻译
+《Pragmatic Programmer》中文翻译  正在加急翻译中 欢迎 star
 
 ## [第一章 务实主义哲学](./Chapter1/务实主义哲学.md)
 
