@@ -2,6 +2,10 @@
 
 《Pragmatic Programmer》中文翻译  正在加急翻译中 欢迎 star
 
+ [语雀传送门](https://www.yuque.com/caicaishmily/progmatic)
+
+ Gitbook is Coming soon
+
 ## [第一章 务实主义哲学](./Chapter1/务实主义哲学.md)
 
 - [话题 1 这是你的人生](./Chapter1/这是你的人生.md)
