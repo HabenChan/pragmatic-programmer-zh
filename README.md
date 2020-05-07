@@ -2,12 +2,11 @@
 
 《Pragmatic Programmer》中文翻译 欢迎 star
 
- [语雀传送门](https://www.yuque.com/caicaishmily/progmatic)
+由于个人水平有限 精力有限 所以有些翻译或许会显得生硬难懂 有些上下文翻译成中文就会失去原文的味道 在此还请各位大佬包涵 不过说真的 假如你有英语的阅读能力 那我强烈推荐你读原版的 [_戳这里下载_](https://salttiger.com/the-pragmatic-programmer-20th-anniversary-edition-2nd-edition/)
 
- [Gitbook 传送门](https://caicaishmily.gitbooks.io/pragmatic_programmer/content/)
+[Gitbook 传送门](https://caicaishmily.gitbooks.io/pragmatic_programmer/content/)
 
 ## [第一章 务实主义哲学](./Chapter1/务实主义哲学.md)
-
 - [话题 1 这是你的人生](./Chapter1/这是你的人生.md)
 - [话题 2 猫吃了我的源代码](./Chapter1/猫吃了我的源代码.md)
 - [话题 3 软件熵](./Chapter1/软件熵.md)
@@ -17,7 +16,6 @@
 - [话题 7 沟通](./Chapter1/沟通.md)
 
 ## [第二章 务实的方法](./Chapter2/务实的方法.md)
-
 - [话题 8 好设计的本质](./Chapter2/好设计的本质.md)
 - [话题 9 重复的恶魔](./Chapter2/重复的恶魔.md)
 - [话题 10 正交性](./Chapter2/正交性.md)
@@ -28,7 +26,6 @@
 - [话题 15 评估](./Chapter2/评估.md)
 
 ## [第三章 基本工具](./Chapter3/基本工具.md)
-
 - [话题 16 纯文本的力量](./Chapter3/纯文本的力量.md)
 - [话题 17 shell 游戏](./Chapter3/shell.md)
 - [话题 18 强大的编辑](./Chapter3/强大的编辑.md)
@@ -38,7 +35,6 @@
 - [话题 22 工程日记](./Chapter3/工程日记.md)
 
 ## [第四章 程序性妄想症](./Chapter4/程序性妄想症.md)
-
 - [话题 23 契约设计](./Chapter4/契约设计.md)
 - [话题 24 死程序不说谎](./Chapter4/死程序不说谎.md)
 - [话题 25 断言式编程](./Chapter4/断言式编程.md)
@@ -46,7 +42,6 @@
 - [话题 27 别开过头了](./Chapter4/别开过头了.md)
 
 ## [第五章 弯曲或折断](./Chapter5/弯曲或折断.md)
-
 - [话题 28 解耦](./Chapter5/解耦.md)
 - [话题 29 杂耍现实世界](./Chapter5/杂耍现实世界.md)
 - [话题 30 转换编程](./Chapter5/转换编程.md)
@@ -54,14 +49,12 @@
 - [话题 32 配置](./Chapter5/配置.md)
 
 ## [第六章 并发](./Chapter6/并发.md)
-
 - [话题 33 断开时间耦合](./Chapter6/断开时间耦合.md)
 - [话题 34 共享状态不正确](./Chapter6/共享状态不正确.md)
 - [话题 35 Actors 和进程](./Chapter6/actors和进程.md)
 - [话题 36 黑板](./Chapter6/黑板.md)
 
 ## [第七章 当你编程时](./Chapter7/当你编程时.md)
-
 - [话题 37 聆听你的蜥蜴脑](./Chapter7/聆听你的蜥蜴脑.md)
 - [话题 38 巧合编程](./Chapter7/巧合编程.md)
 - [话题 39 算法速度](./Chapter7/算法速度.md)
@@ -72,13 +65,11 @@
 - [话题 44 命名](./Chapter7/命名.md)
 
 ## [第八章 项目之前](./Chapter8/项目之前.md)
-
 - [话题 45 需求坑](./Chapter8/需求坑.md)
 - [话题 46 解决不可能的难题](./Chapter8/解决不可能的难题.md)
 - [话题 47 敏捷的本质](./Chapter8/敏捷的本质.md)
 
 ## [第九章 务实的项目](./Chapter9/务实的项目.md)
-
 - [话题 48 务实的团队](./Chapter9/务实的团队.md)
 - [话题 49 椰子不要切碎](./Chapter9/椰子不要切碎.md)
 - [话题 50 实用入门套件](./Chapter9/实用入门套件.md)
